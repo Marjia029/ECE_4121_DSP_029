@@ -64,6 +64,7 @@ fprintf('The time delay between y1 and y2 is %.3f seconds.\n' time_delay);
 <b>4.7 Output:</b>
 
 <div align="center">
+    <img src="output.png">
     <img src="figure.png">
     <p style="text-align: center;">Figure 1.1: Graphical Representation of Time delay between two signals</p>
 </div>
